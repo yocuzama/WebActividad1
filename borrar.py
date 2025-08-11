@@ -1,0 +1,2 @@
+def sumar():
+    print("Suma")
